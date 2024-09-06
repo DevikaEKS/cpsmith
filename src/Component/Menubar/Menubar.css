@@ -1,0 +1,8 @@
+.logo{
+    height: 50px !important;
+    width: 200px;
+}
+.navtext:hover{
+    color: black;
+    font-weight: 500;
+}

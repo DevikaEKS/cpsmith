@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "image": "pro3.png",
+      "name": "Stylish Full Sleeves Top",
+      "price": "Rs. 339"
+    },
+    {
+      "id": 2,
+      "image": "product7_1_1_1_1.jpg.png",
+      "name": "Casual T-Shirt",
+      "price": "Rs. 299"
+    },
+    {
+      "id": 3,
+      "image": "product12_1_1_1_1.jpg.png",
+      "name": "Denim Jacket",
+      "price": "Rs. 599"
+    },
+    {
+      "id": 4,
+      "image": "product3_1_1_2.jpg.png",
+      "name": "Summer Dress",
+      "price": "Rs. 499"
+    }
+  ]
+  

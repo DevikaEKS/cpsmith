@@ -1,0 +1,9 @@
+.clientpart{
+    background-image: url("../../Asset/Group\ 192.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.headingclient{
+    font-size: 36px;
+}

@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Sublimation Print Tight Fit Yoga Pant Extra Large Butterfly Blooms",
+      "image": [
+        "/Asset/FSkyBlue.png",
+        "/Asset/FSkyBlue.png",
+        "/Asset/FSkyBlue.png"
+      ],
+      "price": "1499"
+    },
+    {
+      "id": 2,
+      "name": "Plain Tight Fit Yoga Pant Extra Large Fairy Tale",
+      "image": ["/Asset/FPink.jpg", "/Asset/FPink.jpg", "/Asset/FPink.jpg"],
+      "price": "1499"
+    },
+    {
+      "id": 3,
+      "name": "Plain Tight Fit Yoga Pant Extra Large Ant Black",
+      "image": ["/Asset/FBlack.png", "/Asset/FBlack.png", "/Asset/FBlack.png"],
+      "price": "1499"
+    },
+    {
+      "id": 4,
+      "name": "Plain Tight Fit Yoga Pant Extra Large Dark Elm",
+      "image": ["/Asset/FBrown.png", "/Asset/FBrown.png", "/Asset/FBrown.png"],
+      "price": "1499"
+    }
+  ]

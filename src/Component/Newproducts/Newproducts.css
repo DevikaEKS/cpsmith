@@ -1,0 +1,53 @@
+.prdheading{
+    font-size: 32px;
+    color: #485053;
+    /* border-bottom: 1px solid #485053; */
+}
+
+.prdheading:hover {
+   
+    display: inline-block; /* Ensures the underline is as wide as the text content */
+    position: relative; /* Allows positioning of the pseudo-element */
+    padding-bottom: 5px; /* Adjust padding as needed */
+    font-size: 2rem; /* Adjust font size as needed */
+    color: #485053;
+  }
+  
+  .prdheading::after {
+    content: ''; /* Required to create the pseudo-element */
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    width: 50%; /* Width of the underline relative to the text width */
+    height: 2px; /* Thickness of the underline */
+    background-color: #485053; 
+    transform: translateX(25%); /* Centers the underline */
+  }
+  .productbox{
+    background-color: #3F3F3F;
+  }
+  .newbrd{
+    border: 1px solid white;
+    padding: 6px;
+  }
+  @media (max-width:425px){
+    .newbrd{
+        border: 1px solid white;
+        padding: 10px;
+        height: 200px;
+      }
+  }
+  .ADDBTN{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border: 0px;
+  }
+  .prdname{
+    font-size: 14px;
+  }
+  .cost{
+    font-size: 16px;
+    font-weight: 500;
+  }

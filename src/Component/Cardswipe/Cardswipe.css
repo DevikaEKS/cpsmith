@@ -1,0 +1,79 @@
+.slider-container {
+    max-width: 100%;
+    padding: 20px;
+  }
+  .clientpart{
+    background-image: url("../../Asset/Group\ 192.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.headingclient{
+    font-size: 36px;
+}
+  .card1 {
+    background-color: #252424;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%; 
+    margin: 0 auto;
+    height: 100%;
+  }
+ 
+  
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #fff;
+    font-size: 5px;
+  }
+  
+  .swiper-pagination-bullet {
+    background: #fff;
+  }
+  
+  .swiper-pagination-bullet-active {
+    background: #fff;
+  }
+  
+  .slider-container {
+    max-width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    text-align: center;
+    width: 100%; /* Increase card width */
+    margin: 0 auto; /* Center the card */
+    transition: transform 0.3s ease; /* Smooth transition for transform changes */
+  }
+  
+  .card:hover {
+    /* Remove or modify the transform property */
+    transform: scale(1.05); /* Example: slightly enlarge the card on hover */
+  }
+  
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #fff;
+    font-size: 5px;
+  }
+  
+  .swiper-pagination-bullet {
+    background: #fff;
+    font-size: 5px;
+  }
+  
+  .swiper-pagination-bullet-active {
+    background: #fff;
+    font-size: 5px;
+  }
+  .caroussselpara{
+    text-align: justify;
+    padding: 20px 10px;
+  }

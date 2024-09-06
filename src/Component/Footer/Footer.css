@@ -1,0 +1,24 @@
+.footerpart{
+    background-color: #3F3F3F;
+}
+.contactbox{
+    border: 1px solid white;
+}
+.inputbox{
+    background-color: #3F3F3F;
+    border: 0px;
+    margin: 0px;
+}
+.subbtn{
+    background-color: #9BA8AE;
+    border:2px solid white;
+   margin: 0px;
+}
+input::placeholder{
+    color: #9ba8ae;
+    font-size: 12px;
+}
+.footpara{
+    font-size: 19px;
+    font-weight: 500;
+}

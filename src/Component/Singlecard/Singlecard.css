@@ -1,0 +1,106 @@
+.slider-container {
+    max-width: 100%;
+    padding: 20px;
+  }
+
+.headingclient{
+    font-size: 36px;
+}
+  /* .card1 {
+    background-color: #252424;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%; 
+    margin: 0 auto;
+    height: 100%;
+  } */
+ 
+  
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #485053;
+    font-size: 5px;
+  }
+  
+  .swiper-pagination-bullet {
+    background: #485053;
+  }
+  
+  .swiper-pagination-bullet-active {
+    background: #485053;
+  }
+  
+  .slider-container {
+    max-width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    text-align: center;
+    width: 100%; /* Increase card width */
+    margin: 0 auto; /* Center the card */
+    transition: transform 0.3s ease;
+    border: 0px!important;
+    max-height: 400px; /* Smooth transition for transform changes */
+  }
+  
+  .card:hover {
+    /* Remove or modify the transform property */
+    transform: scale(1.05); /* Example: slightly enlarge the card on hover */
+  }
+  
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #485053;
+    font-size: 5px;
+  }
+  
+  .swiper-pagination-bullet {
+    background: #485053;
+    font-size: 5px;
+  }
+  
+  .swiper-pagination-bullet-active {
+    background: #fff;
+    font-size: 5px;
+  }
+  .caroussselpara{
+    text-align: justify;
+    padding: 20px 10px;
+  }
+
+  /* Style for the Swiper navigation buttons */
+.swiper-button-next, .swiper-button-prev {
+    color: black; /* Set the color to black */
+    font-size: 24px; /* Adjust the font size if needed */
+}
+
+/* Optional: If you want to style the button with a background */
+.swiper-button-next::after, .swiper-button-prev::after {
+    font-size: 24px; /* Adjust the icon size */
+    color: black; /* Set the icon color to black */
+}
+
+
+.thumbnail-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.thumbnail {
+    margin: 0 10px;
+    border: 2px solid transparent; /* Border to indicate the selected thumbnail */
+    padding: 2px;
+    border-radius: 4px;
+}
+
+.thumbnail img {
+    height: 100px;
+}

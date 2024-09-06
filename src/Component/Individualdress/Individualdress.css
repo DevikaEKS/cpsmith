@@ -1,0 +1,18 @@
+.grnbtn{
+    background-color: #008000;
+    color: white;
+    border: 0px;
+}
+
+.addbtn{
+    background-color: black;
+    color: white;
+    border: 0;
+}
+.sportshead{
+    font-weight: 500;
+    font-size: 38px;
+}
+.borderpart{
+    border: 1px solid black;
+}
